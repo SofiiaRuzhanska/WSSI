@@ -23,7 +23,7 @@ a)Nie obowiązkowe jest użycie sztucznej inteligencji, ponieważ jest to bardzi
 • testowanie oprogramowania,
 a)Testowanie oprogramowania wymaga inteligencji, ponieważ osoba testująca musi analizować oprogramowanie, wykrywać błędy oraz podejmować decyzje dotyczące raportowania i rozwiązywania problemów.
 • komponowanie muzyki
-a) Testowanie oprogramowania wymaga inteligencji, ponieważ osoba testująca musi analizować oprogramowanie, wykrywać błędy oraz podejmować decyzje dotyczące raportowania i rozwiązywania problemów.
+a) Komponowanie muzyki wymaga pewnego stopnia inteligencji, ponieważ kompozytor musi rozumieć teorię muzyki, analizować harmonię i rytm oraz podejmować kreatywne decyzje dotyczące struktury i brzmienia utworu.
 • rozwiązywanie układów równań
 a) Rozwiązywanie układów równań wymaga inteligencji, ponieważ osoba musi zastosować umiejętności matematyczne, analizować związki między zmiennymi oraz wykorzystać strategie rozwiązania problemu.
 • symboliczne obliczanie pochodnych funkcji
