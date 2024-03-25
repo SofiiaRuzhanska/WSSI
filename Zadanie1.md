@@ -91,4 +91,4 @@ Obie wersje botów radzą sobie z utrzymaniem wątków i kontynuowaniem rozmowy.
 3.Raport ze spostrzeżeń:                                                                                                                                            
 Bot, który udaje człowieka wykazuje większe zainteresowanie daną rozmową, inicjuje więcej pytań oraz stara się utrzymywać temat rozmowy. 
 Lecz z drugiej strony, bot "asystent, służący" jest bardziej skupiony na dostarczaniu informacji lub rozwiązaniu pewnego problemu użytkownika i bardziej skryty w interakcji.
-5.Aby zdenerwować bota, zadawałam mu trudne do zrozumienia pytania, powtarzałąm te same pytania wielokrotnie również próbowałam zdekoncentrować go, zadając pytania z zupełnie innych tematów.
+5.Aby zdenerwować bota, zadawałam mu trudne do zrozumienia pytania, powtarzałam te same pytania wielokrotnie również próbowałam zdekoncentrować go, zadając pytania z zupełnie innych tematów.
