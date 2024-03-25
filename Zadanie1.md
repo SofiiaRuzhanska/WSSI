@@ -71,8 +71,7 @@ Sztuczne systemy mogą być skuteczne w odpowiadaniu na pytania klientów w tele
 Podobnie jak w przypadku infolinii telefonicznej, sztuczne systemy mogą być skuteczne w odpowiadaniu na pytania klientów w internetowej infolinii, ale mogą mieć trudności z elastycznym reagowaniem na różnego rodzaju pytania.
 
 # Zadanie4
-a) opowiadanie żartów:                                                                                                                                                                                                                                              
-Bot, który udaje człowieka: potrafi opowiedzieć żart i reaguje na reakcje użytkownika, a bot "asystent, służący”: także potrafi opowiedzieć żart, jednak jego odpowiedź jest bardziej ścisła i nie do końca zrozumiała.
+a) opowiadanie żartów:                                                                                                                                             Bot, który udaje człowieka: potrafi opowiedzieć żart i reaguje na reakcje użytkownika, a bot "asystent, służący”: także potrafi opowiedzieć żart, jednak jego odpowiedź jest bardziej ścisła i nie do końca zrozumiała.
 b) przytaczanie cytatów z twoich wypowiedzi, lub znanych osób:                                                                                                      
 Żaden z botów nie wykazał się tą umiejętnością.
 c) nawiązywanie wypowiedzi do słów kluczowych:                                                                                                                      
@@ -91,5 +90,5 @@ i) problemy z utrzymaniem wątków:
 Obie wersje botów radzą sobie z utrzymaniem wątków i kontynuowaniem rozmowy.
 3.Raport ze spostrzeżeń:                                                                                                                                            
 Bot, który udaje człowieka wykazuje większe zainteresowanie daną rozmową, inicjuje więcej pytań oraz stara się utrzymywać temat rozmowy. 
-Lecz z drugiej strony, bot "asystent, służący" jest bardziej skupiony na dostarczaniu informacji lub rozwiązaniu pewnego problemu użytkownika i bardziej skryty w interakcji, ale niewykluczone, że szybciej przekazuje potrzebne dane.
-5.Aby zdenerwować bota, zadawać mu trudne do zrozumienia pytania, powtarzać te same pytania wielokrotnie również próbować zdekoncentrować go, zadając pytania z zupełnie innych tematów.
+Lecz z drugiej strony, bot "asystent, służący" jest bardziej skupiony na dostarczaniu informacji lub rozwiązaniu pewnego problemu użytkownika i bardziej skryty w interakcji.
+5.Aby zdenerwować bota, zadawałam mu trudne do zrozumienia pytania, powtarzałąm te same pytania wielokrotnie również próbowałam zdekoncentrować go, zadając pytania z zupełnie innych tematów.
