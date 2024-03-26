@@ -1,16 +1,16 @@
 # Zadanie1
 
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
-1.	wypełnianie deklaracji PIT - w większości przypadków wypełnienia PIT może być wykonane przy użyciu prostych instrukcji, i niekoniecznie wymaga to inteligencji.
-2.	streszczanie tekstu:                                                                                                                                            
+1.wypełnianie deklaracji PIT - w większości przypadków wypełnienia PIT może być wykonane przy użyciu prostych instrukcji, i niekoniecznie wymaga to inteligencji.
+2.streszczanie tekstu:                                                                                                                                            
   a) Tak ponieważ wykorzystuje umiejętności analizowania tekstu i staramy się jak najdokładniej streścić tekst.
 b) Streszczony tekst za pomocą inteligencji jest o wiele zrozumialszy, ponieważ człowiek dokładnie analizuje wszystkie aspekty i może korzystać w dalszy z tego.
-3.	tłumaczenie tekstu:
+3.tłumaczenie tekstu:
 a) Tłumaczenie wymaga inteligencji, ponieważ osoba, która tłumaczy ma rozumieć język źródłowy i docelowy. Wymaga też znajomość gramatyki, słownictwa.Tłumaczenie może prowadzić do wzbogacenia słownictwa i zdolności analitycznych.
 b) I nawet po przetłumaczeniu może korzystać z nowej wiedzy.
-4.	klasyfikacja tekstu do kategorii tematycznych:
+4.klasyfikacja tekstu do kategorii tematycznych:
 a) Każdy tekst jest przypisany do określonej kategorii tematycznej, a proces jego klasyfikacji wymaga od człowieka wykorzystania umiejętności analitycznych oraz zdobytej wiedzy, co umożliwia dokonanie trafnych wniosków. Istotne jest zrozumienie kontekstu tekstu oraz umiejętność rozróżniania różnych kategorii pisania.
-5.	odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim):
+5.odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim):
 a) Nie wymaga korzystania z inteligencji bo to jest proste.
 6.	układanie rozkładu jazdy transportu miejskiego:
 a)Układanie rozkładu jazdy wymaga inteligencji, ponieważ osoba musi uwzględnić różnorodne czynniki, takie jak zapotrzebowanie pasażerów, dostępność środków transportu oraz ograniczenia czasowe, aby stworzyć spójny i wygodny rozkład jazdy oraz haromonogram dla kierowców.
