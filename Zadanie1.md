@@ -1,6 +1,6 @@
 # Zadanie1
 
-Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka
+Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
 1.	wypełnianie deklaracji PIT - w większości przypadków wypełnienia PIT może być wykonane przy użyciu prostych instrukcji, i niekoniecznie wymaga to inteligencji.
 2.	streszczanie tekstu:                                                                                                                                            
   a) Tak ponieważ wykorzystuje umiejętności analizowania tekstu i staramy się jak najdokładniej streścić tekst.
@@ -58,36 +58,36 @@ Sztuczna inteligencja jest wykorzystywana przez niektóre samochody w trybie aut
 Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane maszyny):
 
 1.	rozmowa towarzyska:
-i)	Z mojego punktu widzenia, sztuczne systemy nie mogą skutecznie imitować rozmowy towarzyskiej, ponieważ brakuje im uczuć i autentyczności.
+Z mojego punktu widzenia, sztuczne systemy nie mogą skutecznie imitować rozmowy towarzyskiej, ponieważ brakuje im uczuć i autentyczności.
 2.	dyskusja polityczna:
 Moim zdaniem, mogą być programowane do prowadzenia dyskusji na tematy polityczne poprzez udzielanie odpowiedzi na pytania, lecz ze względu na złożone tematy polityczne wypowiedź jest ograniczona.
 3.	dyskusja naukowa: 
-i)	Jest podobnie w przypadku dyskusji politycznych, że sztuczne systemy mogą być programowane na zaawansowanym poziom co pozwala na dyskusje naukowe, lecz ograniczony jest ich zakres, ponieważ nauka się zmienia i rozwija się, to może powodować, że sztuczne systemy nie nadążają za nowym osiągnieciami wiedzy.
+Jest podobnie w przypadku dyskusji politycznych, że sztuczne systemy mogą być programowane na zaawansowanym poziom co pozwala na dyskusje naukowe, lecz ograniczony jest ich zakres, ponieważ nauka się zmienia i rozwija się, to może powodować, że sztuczne systemy nie nadążają za nowym osiągnieciami wiedzy.
 4.	odpowiadanie na pytania klientów w telefonicznej infolinii:
-i)	Sztuczne systemy mogą być skuteczne w odpowiadaniu na pytania klientów w telefonicznej infolinii, ale nie zawsze mogą zrozumieć intencje klienta lub odpowiedzieć w sposób bardziej elastyczny tak jak osoba.
+Sztuczne systemy mogą być skuteczne w odpowiadaniu na pytania klientów w telefonicznej infolinii, ale nie zawsze mogą zrozumieć intencje klienta lub odpowiedzieć w sposób bardziej elastyczny tak jak osoba.
 5.	odpowiadanie na pytania klientów w internetowej infolinii:
 Podobnie jak w przypadku infolinii telefonicznej, sztuczne systemy mogą być skuteczne w odpowiadaniu na pytania klientów w internetowej infolinii, ale mogą mieć trudności z elastycznym reagowaniem na różnego rodzaju pytania.
 
 # Zadanie4
-a)	opowiadanie żartów: 
+1)	opowiadanie żartów: 
 Bot, który udaje człowieka: potrafi opowiedzieć żart i reaguje na reakcje użytkownika, a bot "asystent, służący”: także potrafi opowiedzieć żart, jednak jego odpowiedź jest bardziej ścisła i nie do końca zrozumiała.
-b)	przytaczanie cytatów z twoich wypowiedzi, lub znanych osób:                                                                                                      
+2)	przytaczanie cytatów z twoich wypowiedzi, lub znanych osób:                                                                                                      
 Żaden z botów nie wykazał się tą umiejętnością.
-c)	nawiązywanie wypowiedzi do słów kluczowych:                                                                                                                     
+3)	nawiązywanie wypowiedzi do słów kluczowych:                                                                                                                      
 Dwa boty potrafią nawiązywać do słów kluczowych, chociaż bot "asystent, służący», jest bardziej skupiony na rozpoznaniu określonych fraz.  
-d)	zadawanie dużej liczby pytań:                                                                                                                                   
+4)	zadawanie dużej liczby pytań:                                                                                                                                    
 Bot, który udaje człowieka zadaje więcej pytań i wydaje się, że jest bardziej zainteresowany rozmową, niż bot "asystent, służący”.
-e)	powracanie do początku wypowiedzi, sekwencyjne powtarzanie:                                                                                                     
+5)	powracanie do początku wypowiedzi, sekwencyjne powtarzanie:                                                                                                      
  Żaden z dwóch botów nie powraca do początku wypowiedzi i nie powtarza ich sekwencyjnie.
-f)	zadawanie pytań powstających z twoich wypowiedzi:                                                                                                               
+6)	zadawanie pytań powstających z twoich wypowiedzi:                                                                                                                
 Bot, który udaje człowieka wykazuje większe zainteresowanie rozmową poprzez zadawanie większej ilości pytań, które powstają wypowiedzi użytkownika.
-g) odpowiadanie wymijająco, ogólnikowo:                                                                                                                             
+7)	odpowiadanie wymijająco, ogólnikowo:                                                                                                                             
 Obie wersje bota odpowiadają ogólnikowo, jednak bot "asystent, służący" jest bardziej skłonny do takiego zachowania.
-h)	częsta zmiana tematu rozmowy:                                                                                                                                    
+8)	częsta zmiana tematu rozmowy:                                                                                                                                    
 Żaden z botów nie wykazał się częstą zmianą tematu rozmowy.
-i) problemy z utrzymaniem wątków:                                                                                                                               
+9)	problemy z utrzymaniem wątków:                                                                                                                               
 Obie wersje botów radzą sobie z utrzymaniem wątków i kontynuowaniem rozmowy.
-1.	Raport ze spostrzeżeń:      
+1.	 Raport ze spostrzeżeń:      
 Bot, który udaje człowieka wykazuje większe zainteresowanie daną rozmową, inicjuje więcej pytań oraz stara się utrzymywać temat rozmowy.  Lecz z drugiej strony, bot "asystent, służący" jest bardziej skupiony na dostarczaniu informacji lub rozwiązaniu pewnego problemu użytkownika i bardziej skryty w interakcji.
 2.	Rozmowa między botem, który udaje człowieka, a botem "asystent, służący" pokazała różnice w podejściu do komunikacji. Bot człowiek wykazał się większą elastycznością i zdolnością do prowadzenia bardziej naturalnej rozmowy, gdyż bot "asystent, służący” skoncentrował się głównie na dostarczaniu pewnych informacji.
 3.	Aby zdenerwować bota, zadawałam mu trudne pytania do zrozumienia, powtarzałam te same pytania wielokrotnie również próbowałam zdekoncentrować go, zadając pytania z zupełnie innych tematów.
