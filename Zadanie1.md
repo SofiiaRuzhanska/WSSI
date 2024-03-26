@@ -22,13 +22,13 @@ a)Nie obowiązkowe jest użycie inteligencji, ponieważ jest to bardziej kwestia
 a)Testowanie oprogramowania wymaga inteligencji, ponieważ osoba testująca musi analizować oprogramowanie, wykrywać błędy oraz podejmować decyzje dotyczące raportowania i rozwiązywania problemów.
 10. komponowanie muzyki:
 a) Komponowanie muzyki wymaga pewnego stopnia inteligencji, ponieważ kompozytor musi rozumieć teorię muzyki, analizować harmonię i rytm oraz podejmować kreatywne decyzje dotyczące struktury i brzmienia utworu.
-11.	rozwiązywanie układów równań:
+11. rozwiązywanie układów równań:
 a) Rozwiązywanie układów równań wymaga inteligencji, ponieważ osoba musi zastosować umiejętności matematyczne, analizować związki między zmiennymi oraz wykorzystać strategie rozwiązania problemu.
 12. symboliczne obliczanie pochodnych funkcji:
 Tak bezwzględnie potrzebujemy inteligencji, ponieważ osoba musi rozumieć reguły różniczkowania, analizować złożone funkcje i stosować odpowiednie techniki obliczeniowe.
 13. symboliczne całkowanie funkcji:
 Tak bezwzględnie potrzebujemy inteligencji, bo obliczenie funkcji wynika z naszych przemyśleń, umiejętności także uczymy się czegoś nowego.
-14.	kierowanie samochodem:
+14. kierowanie samochodem:
 Kierowanie samochodem wymaga inteligencji, ponieważ kierowca musi podejmować decyzje na podstawie obserwacji, analizować sytuacje drogowe, przewidywać zachowania innych uczestników ruchu oraz dostosowywać się do zmieniających się warunków drogowych.
 
 # Zadanie2
@@ -51,7 +51,7 @@ Pewnie, że tak.
  Sztuczna inteligencja może być wykorzystana do rozwiązywania problemów symbolicznego obliczania pochodnych
 9. symboliczne całkowanie:
 Sztuczna inteligencja może być wykorzystana do rozwiązywania problemów symbolicznego obliczania całek
-10.	kierowanie samochodem:
+10. kierowanie samochodem:
 Sztuczna inteligencja jest wykorzystywana przez niektóre samochody w trybie autopilota, co pokazuje, że kierowanie samochodem jest w zakresie możliwości AI.
 
 # Zadanie3
