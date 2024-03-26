@@ -2,9 +2,8 @@
 
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka
 
- 1) wypełnianie deklaracji PIT - w większości przypadków wypełnienia PIT może być wykonane przy użyciu prostych instrukcji, i niekoniecznie wymaga to inteligencji.
- 2) streszczanie tekstu:                                                                                                                                            
-  a) Tak ponieważ wykorzystuje umiejętności analizowania tekstu i staramy się jak najdokładniej streścić tekst.
+1.	wypełnianie deklaracji PIT - w większości przypadków wypełnienia PIT może być wykonane przy użyciu prostych instrukcji, i niekoniecznie wymaga to inteligencji.
+2.	streszczanie tekstu:                                                                                                                                             a) Tak ponieważ wykorzystuje umiejętności analizowania tekstu i staramy się jak najdokładniej streścić tekst.
 b) Streszczony tekst za pomocą inteligencji jest o wiele zrozumialszy, ponieważ człowiek dokładnie analizuje wszystkie aspekty i może korzystać w dalszy z tego.
  3)tłumaczenie tekstu:
 a) Tłumaczenie wymaga inteligencji, ponieważ osoba, która tłumaczy ma rozumieć język źródłowy i docelowy. Wymaga też znajomość gramatyki, słownictwa.Tłumaczenie może prowadzić do wzbogacenia słownictwa i zdolności analitycznych.
