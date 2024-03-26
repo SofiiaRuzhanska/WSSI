@@ -17,9 +17,9 @@ a)Układanie rozkładu jazdy wymaga inteligencji, ponieważ osoba musi uwzględn
 7. programowanie (pisanie programów komputerowych):
 a) Programowanie wymaga inteligencji, ponieważ programista musi analizować problemy, uczyć się nowych technologii i algorytmów, oraz podejmować decyzje dotyczące projektowania i implementacji rozwiązań programistycznych.
 8. „programowanie” kanałów telewizyjnych:
-a)Nie obowiązkowe jest użycie inteligencji, ponieważ jest to bardziej kwestia planowania i organizacji zasobów.
+a) Nie obowiązkowe jest użycie inteligencji, ponieważ jest to bardziej kwestia planowania i organizacji zasobów.
 9. testowanie oprogramowania:
-a)Testowanie oprogramowania wymaga inteligencji, ponieważ osoba testująca musi analizować oprogramowanie, wykrywać błędy oraz podejmować decyzje dotyczące raportowania i rozwiązywania problemów.
+a) Testowanie oprogramowania wymaga inteligencji, ponieważ osoba testująca musi analizować oprogramowanie, wykrywać błędy oraz podejmować decyzje dotyczące raportowania i rozwiązywania problemów.
 10. komponowanie muzyki:
 a) Komponowanie muzyki wymaga pewnego stopnia inteligencji, ponieważ kompozytor musi rozumieć teorię muzyki, analizować harmonię i rytm oraz podejmować kreatywne decyzje dotyczące struktury i brzmienia utworu.
 11. rozwiązywanie układów równań:
@@ -34,7 +34,7 @@ Kierowanie samochodem wymaga inteligencji, ponieważ kierowca musi podejmować d
 # Zadanie2
 Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej inteligencji:
 1. streszczanie tekstu: 
-a)Streszczanie tekstu jest często wykonywane przez sztuczną inteligencję, ale może być trudne, ponieważ AI może nie zawsze wyłapać wszystkie istotne elementy tekstu ani jego główny cel.
+a) Streszczanie tekstu jest często wykonywane przez sztuczną inteligencję, ale może być trudne, ponieważ AI może nie zawsze wyłapać wszystkie istotne elementy tekstu ani jego główny cel.
 2. tłumaczenie tekstu:
 a) Tłumaczenie tekstu jest często wykonywane przez sztuczną inteligencję, wykorzystywane są różne techniki automatycznego tłumaczenia tekstu.
 3. klasyfikacja tekstu do kategorii tematycznych:
@@ -42,7 +42,7 @@ Klasyfikacja tekstu do kategorii tematycznych jest typowym zadaniem dla sztuczne
 4. odpowiadanie na proste pytania zadawane w języku naturalnym:
 Odpowiadanie na proste pytania w języku naturalnym jest powszechnie wykonywane przez sztuczną inteligencję.
 5. rozwiązywanie układów równań:
-a)Sztuczna inteligencja może być wykorzystana do rozwiązywania układów równań, ale może mieć trudności z bardziej złożonymi równaniami.
+a) Sztuczna inteligencja może być wykorzystana do rozwiązywania układów równań, ale może mieć trudności z bardziej złożonymi równaniami.
 6. układanie rozkładu jazdy:
 a) Układanie rozkładu jazdy może być wykonywane przez sztuczną inteligencję, ale wymaga uwzględnienia wielu czynników, co może sprawić trudność
 7. rozwiązywanie układów równań liniowych:
