@@ -12,7 +12,7 @@ b) I nawet po przetłumaczeniu może korzystać z nowej wiedzy.
 a) Każdy tekst jest przypisany do określonej kategorii tematycznej, a proces jego klasyfikacji wymaga od człowieka wykorzystania umiejętności analitycznych oraz zdobytej wiedzy, co umożliwia dokonanie trafnych wniosków. Istotne jest zrozumienie kontekstu tekstu oraz umiejętność rozróżniania różnych kategorii pisania.
 5. odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim):
 a) Nie wymaga korzystania z inteligencji bo to jest proste.
-6.	układanie rozkładu jazdy transportu miejskiego:
+6. układanie rozkładu jazdy transportu miejskiego:
 a)Układanie rozkładu jazdy wymaga inteligencji, ponieważ osoba musi uwzględnić różnorodne czynniki, takie jak zapotrzebowanie pasażerów, dostępność środków transportu oraz ograniczenia czasowe, aby stworzyć spójny i wygodny rozkład jazdy oraz haromonogram dla kierowców.
 7. programowanie (pisanie programów komputerowych):
 a) Programowanie wymaga inteligencji, ponieważ programista musi analizować problemy, uczyć się nowych technologii i algorytmów, oraz podejmować decyzje dotyczące projektowania i implementacji rozwiązań programistycznych.
@@ -20,13 +20,13 @@ a) Programowanie wymaga inteligencji, ponieważ programista musi analizować pro
 a)Nie obowiązkowe jest użycie inteligencji, ponieważ jest to bardziej kwestia planowania i organizacji zasobów.
 9. testowanie oprogramowania:
 a)Testowanie oprogramowania wymaga inteligencji, ponieważ osoba testująca musi analizować oprogramowanie, wykrywać błędy oraz podejmować decyzje dotyczące raportowania i rozwiązywania problemów.
-10.	komponowanie muzyki:
+10. komponowanie muzyki:
 a) Komponowanie muzyki wymaga pewnego stopnia inteligencji, ponieważ kompozytor musi rozumieć teorię muzyki, analizować harmonię i rytm oraz podejmować kreatywne decyzje dotyczące struktury i brzmienia utworu.
 11.	rozwiązywanie układów równań:
 a) Rozwiązywanie układów równań wymaga inteligencji, ponieważ osoba musi zastosować umiejętności matematyczne, analizować związki między zmiennymi oraz wykorzystać strategie rozwiązania problemu.
-12.	symboliczne obliczanie pochodnych funkcji:
+12. symboliczne obliczanie pochodnych funkcji:
 Tak bezwzględnie potrzebujemy inteligencji, ponieważ osoba musi rozumieć reguły różniczkowania, analizować złożone funkcje i stosować odpowiednie techniki obliczeniowe.
-13.	symboliczne całkowanie funkcji:
+13. symboliczne całkowanie funkcji:
 Tak bezwzględnie potrzebujemy inteligencji, bo obliczenie funkcji wynika z naszych przemyśleń, umiejętności także uczymy się czegoś nowego.
 14.	kierowanie samochodem:
 Kierowanie samochodem wymaga inteligencji, ponieważ kierowca musi podejmować decyzje na podstawie obserwacji, analizować sytuacje drogowe, przewidywać zachowania innych uczestników ruchu oraz dostosowywać się do zmieniających się warunków drogowych.
