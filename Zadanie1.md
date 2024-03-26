@@ -84,7 +84,7 @@ f) zadawanie pytań powstających z twoich wypowiedzi:
 Bot, który udaje człowieka wykazuje większe zainteresowanie rozmową poprzez zadawanie większej ilości pytań, które powstają wypowiedzi użytkownika.
 g) odpowiadanie wymijająco, ogólnikowo:                                                                                                                             
 Obie wersje bota odpowiadają ogólnikowo, jednak bot "asystent, służący" jest bardziej skłonny do takiego zachowania.
-h) częsta zmiana tematu rozmowy:                                                                                                                                      
+h) częsta zmiana tematu rozmowy:                                                                                                                                    
 Żaden z botów nie wykazał się częstą zmianą tematu rozmowy.
 i) problemy z utrzymaniem wątków:                                                                                                                               
 Obie wersje botów radzą sobie z utrzymaniem wątków i kontynuowaniem rozmowy.
