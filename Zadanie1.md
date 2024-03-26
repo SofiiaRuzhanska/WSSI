@@ -13,7 +13,7 @@ a) Każdy tekst jest przypisany do określonej kategorii tematycznej, a proces j
 5. odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim):
 a) Nie wymaga korzystania z inteligencji bo to jest proste.
 6. układanie rozkładu jazdy transportu miejskiego:
-a)Układanie rozkładu jazdy wymaga inteligencji, ponieważ osoba musi uwzględnić różnorodne czynniki, takie jak zapotrzebowanie pasażerów, dostępność środków transportu oraz ograniczenia czasowe, aby stworzyć spójny i wygodny rozkład jazdy oraz haromonogram dla kierowców.
+a) Układanie rozkładu jazdy wymaga inteligencji, ponieważ osoba musi uwzględnić różnorodne czynniki, takie jak zapotrzebowanie pasażerów, dostępność środków transportu oraz ograniczenia czasowe, aby stworzyć spójny i wygodny rozkład jazdy oraz haromonogram dla kierowców.
 7. programowanie (pisanie programów komputerowych):
 a) Programowanie wymaga inteligencji, ponieważ programista musi analizować problemy, uczyć się nowych technologii i algorytmów, oraz podejmować decyzje dotyczące projektowania i implementacji rozwiązań programistycznych.
 8. „programowanie” kanałów telewizyjnych:
