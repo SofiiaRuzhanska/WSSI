@@ -34,8 +34,7 @@ Tak bezwzględnie potrzebujemy inteligencji, bo obliczenie funkcji wynika z nasz
 Kierowanie samochodem wymaga inteligencji, ponieważ kierowca musi podejmować decyzje na podstawie obserwacji, analizować sytuacje drogowe, przewidywać zachowania innych uczestników ruchu oraz dostosowywać się do zmieniających się warunków drogowych.
 
 # Zadanie2
-Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
-inteligencji:
+Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej inteligencji:
 • streszczanie tekstu
 a)Streszczanie tekstu jest często wykonywane przez sztuczną inteligencję, ale może być trudne, ponieważ AI może nie zawsze wyłapać wszystkie istotne elementy tekstu ani jego główny cel.
 • tłumaczenie tekstu
@@ -71,7 +70,8 @@ Sztuczne systemy mogą być skuteczne w odpowiadaniu na pytania klientów w tele
 Podobnie jak w przypadku infolinii telefonicznej, sztuczne systemy mogą być skuteczne w odpowiadaniu na pytania klientów w internetowej infolinii, ale mogą mieć trudności z elastycznym reagowaniem na różnego rodzaju pytania.
 
 # Zadanie4
-a) opowiadanie żartów:                                                                                                                                             Bot, który udaje człowieka: potrafi opowiedzieć żart i reaguje na reakcje użytkownika, a bot "asystent, służący”: także potrafi opowiedzieć żart, jednak jego odpowiedź jest bardziej ścisła i nie do końca zrozumiała.
+a) opowiadanie żartów: 
+Bot, który udaje człowieka: potrafi opowiedzieć żart i reaguje na reakcje użytkownika, a bot "asystent, służący”: także potrafi opowiedzieć żart, jednak jego odpowiedź jest bardziej ścisła i nie do końca zrozumiała.
 b) przytaczanie cytatów z twoich wypowiedzi, lub znanych osób:                                                                                                      
 Żaden z botów nie wykazał się tą umiejętnością.
 c) nawiązywanie wypowiedzi do słów kluczowych:                                                                                                                      
@@ -88,7 +88,8 @@ h) częsta zmiana tematu rozmowy:
 Żaden z botów nie wykazał się częstą zmianą tematu rozmowy.
 i) problemy z utrzymaniem wątków:                                                                                                                               
 Obie wersje botów radzą sobie z utrzymaniem wątków i kontynuowaniem rozmowy.
-3.Raport ze spostrzeżeń:                                                                                                                                            
+3.Raport ze spostrzeżeń:      
 Bot, który udaje człowieka wykazuje większe zainteresowanie daną rozmową, inicjuje więcej pytań oraz stara się utrzymywać temat rozmowy. 
 Lecz z drugiej strony, bot "asystent, służący" jest bardziej skupiony na dostarczaniu informacji lub rozwiązaniu pewnego problemu użytkownika i bardziej skryty w interakcji.
-5.Aby zdenerwować bota, zadawałam mu trudne do zrozumienia pytania, powtarzałam te same pytania wielokrotnie również próbowałam zdekoncentrować go, zadając pytania z zupełnie innych tematów.
+4.Rozmowa między botem, który udaje człowieka, a botem "asystent, służący" pokazała różnice w podejściu do komunikacji. Bot człowiek wykazał się większą elastycznością i zdolnością do prowadzenia bardziej naturalnej rozmowy, gdyż bot "asystent, służący” skoncentrował się głównie na dostarczaniu pewnych informacji.
+5.Aby zdenerwować bota, zadawałam mu trudne pytania do zrozumienia, powtarzałam te same pytania wielokrotnie również próbowałam zdekoncentrować go, zadając pytania z zupełnie innych tematów.
