@@ -4,7 +4,7 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 1.W większości przypadków wypełnienia PIT może być wykonane przy użyciu prostych instrukcji, i niekoniecznie wymaga to inteligencji.
 • streszczanie tekstu,
 a) Tak ponieważ wykorzystuje umiejętności analizowania tekstu i staramy się jak najdokładniej streścić tekst.
-b) Streszczony tekst za pomocą inteligencji jest o wiele zrozumialszy, ponieważ człowiek dokładnie czy analizuje wszystkie aspekty i może korzystać w dalszy z tego.
+b) Streszczony tekst za pomocą inteligencji jest o wiele zrozumialszy, ponieważ człowiek dokładnie analizuje wszystkie aspekty i może korzystać w dalszy z tego.
 • tłumaczenie tekstu,
 a) Tłumaczenie wymaga inteligencji, ponieważ osoba, która tłumaczy ma rozumieć język źródłowy i docelowy. Wymaga też znajomość gramatyki, słownictwa.
 Tłumaczenie może prowadzić do wzbogacenia słownictwa i zdolności analitycznych.
@@ -19,7 +19,7 @@ a)Układanie rozkładu jazdy wymaga inteligencji, ponieważ osoba musi uwzględn
 • programowanie (pisanie programów komputerowych),
 a) Programowanie wymaga inteligencji, ponieważ programista musi analizować problemy, uczyć się nowych technologii i algorytmów, oraz podejmować decyzje dotyczące projektowania i implementacji rozwiązań programistycznych.
 • „programowanie” kanałów telewizyjnych
-a)Nie obowiązkowe jest użycie sztucznej inteligencji, ponieważ jest to bardziej kwestia planowania i organizacji zasobów.
+a)Nie obowiązkowe jest użycie inteligencji, ponieważ jest to bardziej kwestia planowania i organizacji zasobów.
 • testowanie oprogramowania,
 a)Testowanie oprogramowania wymaga inteligencji, ponieważ osoba testująca musi analizować oprogramowanie, wykrywać błędy oraz podejmować decyzje dotyczące raportowania i rozwiązywania problemów.
 • komponowanie muzyki
