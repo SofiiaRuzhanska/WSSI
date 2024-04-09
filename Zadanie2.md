@@ -1,12 +1,12 @@
 # Ćwiczenie 1
 1)
-a) rodzeństwo,
-b) kuzyn,
-c) wspołdziadkowie,
-d) macocha
-e) przyrodnie rodzenstwo
-f) szwagier
-g) wujek i przyrodnie rodzenstwo
+a) rodzeństwo, 
+b) kuzyn, 
+c) wspołdziadkowie, 
+d) macocha, 
+e) przyrodnie rodzenstwo, 
+f) szwagier, 
+g) wujek i przyrodnie rodzenstwo.
 
 2)
 f(jan, anna).
@@ -26,7 +26,7 @@ kobieta(anna).
 kobieta(maria).
 kobieta(kasia).
 
-jest_małżonkiem(jan, maria).
+jest_malzonkiem(jan, maria).
 
 jest_rodzenstwem(X, Y) :-
     f(Z, X),
@@ -40,7 +40,7 @@ jest_kuzynem(X, Y) :-
     A \= B,
     X \= Y.
 
-są_wspólnymi_dziadkami(X, Y) :-
+sa_wspolnymi_dziadkami(X, Y) :-
     f(A, X),
     f(A, Y),
     f(B, A),
@@ -61,7 +61,7 @@ jest_przyrodnim_rodzenstwem(X, Y) :-
     X \= Y.
 
 jest_szwagrem(X, Y) :-
-    jest_małżonkiem(X, Z),
+    jest_malzonkiem(X, Z),
     jest_rodzenstwem(Z, Y),
     mezczyzna(X). 
 
