@@ -5,6 +5,7 @@ osoba(anna).
 osoba(maria).
 osoba(piotr).
 osoba(krzysztof).
+
 mezczyzna(jan).
 mezczyzna(piotr).
 mezczyzna(krzysztof).
