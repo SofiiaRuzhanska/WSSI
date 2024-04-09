@@ -1,4 +1,21 @@
 # Ćwiczenie 2
+% Fakty
+osoba(jan).
+osoba(anna).
+osoba(maria).
+osoba(piotr).
+osoba(krzysztof).
+mezczyzna(jan).
+mezczyzna(piotr).
+mezczyzna(krzysztof).
+
+kobieta(anna).
+kobieta(maria).
+
+rodzic(jan, anna).
+rodzic(jan, piotr).
+rodzic(anna, maria).
+rodzic(piotr, krzysztof).
 
 :- discontiguous kobieta/1.
 kobieta(X) :- 
